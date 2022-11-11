@@ -5,8 +5,8 @@ using namespace std;
 
 void testing(string Apassword){
 
-    if (Apassword == "GhidRA_R0ckz"){
-        cout << "flag{Congratz_King}\n";
+    if (Apassword == "password"){
+        cout << "flag{example}\n";
     }
     else{
         cout << "You wrong. Try again!\n";
