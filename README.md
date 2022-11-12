@@ -1,5 +1,5 @@
 # ghidra_example
-A small CTF that I created for my IST 4610 class in CSUSB.
+A small CTF that I created for IST 4610 class in CSUSB.
 
 ### This only works for Linux sadly.
 
