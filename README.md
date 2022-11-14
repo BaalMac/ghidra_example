@@ -1,9 +1,9 @@
 # ghidra_example
 A small CTF that I created for IST 4610 class in CSUSB.
 
-### This only works for Linux sadly.
+### This only works for Linux and Windows.
 
-Download ghidra and have fun.
+Download ghidra_OS and have fun.
 
 Find the flag labeled as: flag{example}
 
