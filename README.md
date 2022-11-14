@@ -9,4 +9,10 @@ Find the flag labeled as: flag{example}
 
 >*Note: Im aware that this is a super simple task to find the flag and its how its not worth using ghidra, its more of a proof of concept on how to use Ghidra as a beginner. I also added the c++ script if anyone wants to change it and compile it themselves. Will make more challenging CTFs to better grasp Ghidra.*
 
+Please run these CTFs in the Terminal.
+
+Linux > /path/to/directory/Ghidra_Linux
+
+Windows > /Path/to/Directory/Ghidra_Windows.exe
+
 Will upload guide to my blog soon... ^-^
